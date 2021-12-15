@@ -1,7 +1,7 @@
 window = Window.NewWindow(800, "Cellua")
 
 --- module demo
-text = require("modules/text")
+text = require("text")
 text.Display(window)
 
 --
