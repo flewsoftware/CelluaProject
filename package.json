@@ -1,7 +1,8 @@
 {
   "Main": "./main.lua",
   "ModulePaths": [
-    "./modules/text.lua"
+    "./modules/?",
+    "./modules/?.lua"
   ],
   "FontPaths": {
     "OpenSans": "./fonts/OpenSans-Regular.ttf"
